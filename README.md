@@ -8,7 +8,7 @@ I’m currently in final year of B.Tech (Electrical Enginneering)
 
 💬 Ask me about flutter,Machine learing, Startups, Cricket.
 
-📫 How to reach me: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](rish.mish.2607@gmail.com)
+📫 How to reach me: rish.mish.2607@gmail.com
 
 <!--
 **rishimish/rishimish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
