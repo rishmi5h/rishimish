@@ -6,7 +6,7 @@ I’m currently in final year of B.Tech (Electrical Enginneering)
 
 🌱 I’m currently learning Flutter
 
-💬 Ask me about Flutter, Machine learing, Startups, Sports.
+💬 Ask me about Flutter, Machine learing, Python, Startups, Sports.
 
 📫 How to reach me: rish.mish.2607@gmail.com
 
