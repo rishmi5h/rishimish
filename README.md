@@ -4,7 +4,7 @@
 
 I’m currently in final year of B.Tech (Electrical Enginneering) @ NIT Raipur
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning MLOPS
 
 💬 Ask me about Flutter, Machine learing, Python, Startups, Sports.
 
@@ -16,7 +16,7 @@ I’m currently in final year of B.Tech (Electrical Enginneering) @ NIT Raipur
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flutter and MLOPS
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
