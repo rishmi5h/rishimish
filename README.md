@@ -4,8 +4,6 @@
 
 I’m currently in final year of B.Tech (Electrical Enginneering) @ NIT Raipur
 
-🌱 I’m currently learning MLOPS
-
 💬 Ask me about Flutter, Machine learing, Python, Startups, Sports.
 
 📫 How to reach me: rish.mish.2607@gmail.com
