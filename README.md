@@ -1,7 +1,9 @@
 ### Hi there I'm Rishabh👋
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rishmish/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/rishabhmishrabu)
+
 I'm currently learning Web Development.(React and its ecosystem)
+
 I’m recently completed my B.Tech (Electrical Enginneering) @ NIT Raipur (2021)
 
 💬 Ask me about Flutter, Machine learing, Python, Startups, Sports.
