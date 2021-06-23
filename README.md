@@ -4,7 +4,7 @@
 
 I'm currently learning Web Development.(React and its ecosystem)
 
-I’m recently completed my B.Tech (Electrical Enginneering) @ NIT Raipur (2021)
+I recently completed my B.Tech (Electrical Enginneering) from NIT Raipur (2021)
 
 💬 Ask me about Flutter, Machine learing, Python, Startups, Sports.
 
