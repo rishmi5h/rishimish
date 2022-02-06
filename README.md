@@ -10,7 +10,7 @@ I'm currently learning Web Development.(React and its ecosystem)
 
 I completed my B.Tech (Electrical Enginneering) from NIT Raipur (2021)
 
-💬 Ask me about Flutter, Machine learing, Python, Startups, Sports.
+💬 Ask me about Flutter, Startups, Sports.
 
 📫 How to reach me: rish.mish.2607@gmail.com
 
