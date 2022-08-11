@@ -6,7 +6,7 @@
 
 🧑‍💻 I'm currently working as Software Engineer at Optum(UHG) 
 
-🌱 I'm currently learning Web Development.(React and its ecosystem)
+🌱 I'm currently learning about microservices
 
 📚 I completed my B.Tech (Electrical Enginneering) from NIT Raipur (2021)
 
